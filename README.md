@@ -55,3 +55,31 @@ P3-2-prompt-injection-and-ai-abuse-cases/
 │   └── safe-testing-guidelines.md
 └── templates/
     └── abuse-case-template.md
+```
+## Planned Skills Focus
+As work begins on this repository, it is intended to support development in areas such as:
+- AI security analysis
+- abuse case development
+- prompt injection awareness
+- defensive security thinking
+- documentation and structured note-taking
+- mitigation planning
+
+## Why This Project Matters
+AI-enabled systems introduce new attack paths that do not always fit neatly into traditional software security categories. Depending on the design of the system, risks may include injected instructions, unsafe tool use, sensitive information disclosure, trust in malicious content, and poor handling of untrusted output.
+
+This project is planned as a future effort to better understand and document those abuse paths in a structured, security-focused way.
+
+## Current Status
+This repository is currently in the planning stage.
+
+No completed abuse case library, prompts, or defensive analysis artifacts have been added yet. Content will be updated over time as work begins on the project.
+
+## Related Portfolio
+This repository is planned as part of:
+
+- `Cybersecurity-Portfolio3-AI-Security`
+
+## Author
+Created and maintained by kvatnynito as part of a planned AI security portfolio focused on future hands-on learning and structured security analysis.
+
